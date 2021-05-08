@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#d42f2f</color>
+    <color name="list_item_bg">#ff0000</color>
+    <color name="view_divider_color">#ff0404</color>
+</resources>
